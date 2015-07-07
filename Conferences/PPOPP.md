@@ -6,16 +6,16 @@ The PPoPP Symposia is the forum for leading papers on the principles and foundat
 
 **PPoPP Fast Facts**
 
-> [PPoPP 2015](http://ppopp15.soe.ucsc.edu/)  
-> Location: San Francisco Bay Area, CA, USA  
-> General Chair: Albert Cohen, INRIA  
-> Program Chair: David Grove, IBM Research  
-> Dates: Feb, 2015
+> [PPoPP 2016](http://conf.researchr.org/home/ppopp-2016)  
+> Location: Barcelona, Spain  
+> General Chair: Rafael Asenjo, University of Malaga  
+> Program Chair: Tim Harris, Oracle  
+> Dates: Mar, 2016
 
 **Co-located Events**
 
 - HPCA: [The IEEE International Symposium on High Performance Computing Architecture](http://darksilicon.org/hpca/)
-- CGO: [International Symposium on Code Generation and Optimization](http://cgo.org/cgo2015/)
+- CGO: [International Symposium on Code Generation and Optimization](http://cgo.org)
 
 **Steering Committee**
 
@@ -25,6 +25,7 @@ The current PPoPP Steering Committee is:
 
 **Web Pages of Previous Conferences**
 
+- [PPoPP 2015](https://ppopp15.soe.ucsc.edu)
 - [PPoPP 2014](https://sites.google.com/site/ppopp2014/)  
 - [PPoPP 2013](http://ppopp2013.ics.uci.edu) (Shenzhen, China)  
 - PPoPP 2012 (New Orleans, LA)  
